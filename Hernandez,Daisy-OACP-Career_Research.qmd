@@ -1,1 +1,133 @@
+---
+title: "Career Research Essay: Preparing for Careers in Omnichannel Retailing and E-Commerce"
+author: "Hernandez,Daisy"
+date: today
+format: 
+  html: 
+    toc: true
+    toc-depth: 4
+    number-sections: true
+    code-link: true
+    embed-resources: true
+editor: visual
+execute: 
+  freeze: auto
+---
 
+```{r}
+#| label: setup
+#| include: false
+```
+
+## Introduction {#sec-introduction}
+
+::: callout-note
+## About This Essay
+
+This career research essay examines entry-level and mid-level career opportunities in **omnichannel retailing and e-commerce**, drawing on three real job postings to explore what employers are seeking from today's graduates.
+:::
+
+Omnichannel retailing refers to a business strategy that integrates multiple sales and communication channels, including physical stores, e-commerce websites, mobile apps, and social media. The goal is to deliver a seamless and consistent customer experience. As consumer behavior continues to shift toward digital-first shopping, the demand for professionals who can manage these interconnected channels has grown significantly. Companies across industries now depend on marketers, coordinators, and analysts who understand how to engage customers at every touchpoint, optimize digital platforms, and use data to drive decisions. For this essay, I researched three career roles at the intersection of digital marketing and e-commerce: **E-Commerce Coordinator** at Clearly Filtered, **Marketing Lead, Customer Engagement** at Yami, and **Digital Marketing Coordinator** at Oakmont Senior Living. \## Summary of Job Postings {#sec-postings}
+
+::: callout-tip
+## Job Posting Sources
+
+The three postings below were found on LinkedIn and company career pages. Since postings may expire, it is recommended to save a PDF or screenshot at the time of access (see @sec-references for links).
+:::
+
+::: panel-tabset
+#### Posting 1 — Clearly Filtered
+
+**Job Title:** E-Commerce Coordinator **Company:** Clearly Filtered **Source:** LinkedIn
+
+Clearly Filtered is a direct-to-consumer (DTC) health and wellness brand specializing in water filtration products. The E-Commerce Coordinator role is responsible for maintaining the company's digital storefront on Shopify, managing their Amazon Seller Central channel, and supporting a subscription program through the Recharge platform. Day-to-day responsibilities include ensuring website accuracy, monitoring promotional performance, coordinating
+
+#### Posting 2 — Yami
+
+**Job Title:** Marketing Lead, Customer Engagement **Company:** Yami **Source:** LinkedIn
+
+Yami is an online marketplace specializing in Asian lifestyle products, food, and beauty brands. The Marketing Lead, Customer Engagement role focuses on developing and executing a product marketing campaign calendar to drive brand exposure and sales performance. The position requires acting as a primary liaison between retail, marketing, product, and operations teams, making cross-functional collaboration a core part of the job. Key metrics the role monitors include Gross Merchandise Value (GMV) and domain growth. This is a more senior-level position, requiring four to five or more years of experience, bilingual proficiency in English and Mandarin, and a demonstrated track record in customer acquisition and retention strategy.
+
+#### Posting 3 — Oakmont Senior Living
+
+**Job Title:** Digital Marketing Coordinator **Company:** Oakmont Senior Living **Source:** Company Career Page
+
+Oakmont Senior Living is a luxury senior living community operator with properties across California and other western states. Their Digital Marketing Coordinator role focuses on managing digital presence across WordPress websites, supporting SEO initiatives, and assisting with paid media campaigns. Responsibilities include maintaining Google Business Profile listings, coordinating with agency partners, tracking website performance using GA4 and Google Search Console, and assisting with UTM parameters and conversion tracking. This role is ideal for someone who wants broad exposure to both content management and digital analytics in a mission-driven organization.
+:::
+
+## Skills and Knowledge Required {#sec-skills}
+
+### Common Skills Across All Three Postings
+
+After reviewing all three job postings, I can gather that employers in omnichannel retailing and digital marketing consistently value candidates who can balance technical platform knowledge with strong organizational and communication abilities. No single posting was purely analytical or purely creative; they all required a blend of both. Which I feel would be a perfect fit for me as this program is a blend of both.
+
+The table below compares the skills, tools, and knowledge areas mentioned across the three postings (see @tbl-skills).
+
+| Skill / Tool / Knowledge Area          | Clearly Filtered | Yami | Oakmont Senior Living |
+|-----------------------|:---------------:|:---------------:|:---------------:|
+| Project & task management              |        ✓         |  ✓   |           ✓           |
+| Cross-functional collaboration         |        ✓         |  ✓   |           ✓           |
+| Data tracking & performance metrics    |        ✓         |  ✓   |           ✓           |
+| Written & verbal communication         |        ✓         |  ✓   |           ✓           |
+| E-commerce platforms (Shopify, Amazon) |        ✓         |      |                       |
+| CRM / marketing automation tools       |                  |  ✓   |           ✓           |
+| SEO & content management (WordPress)   |                  |      |           ✓           |
+| Campaign planning & execution          |                  |  ✓   |           ✓           |
+| Customer acquisition & retention       |                  |  ✓   |                       |
+| Analytics tools (GA4, Search Console)  |                  |      |           ✓           |
+
+: Skills and Tools Identified Across Job Postings {#tbl-skills}
+
+### Technical Skills
+
+Each posting highlighted distinct technical skill sets, yet several areas of overlap were evident. All three roles expected familiarity with productivity and project management tools such as Excel, Google Sheets, Asana, or Notion. The Clearly Filtered posting specifically required experience with Shopify, Amazon Seller Central, and Recharge. These platforms are central to DTC e-commerce operations. Oakmont Senior Living placed the heaviest emphasis on digital analytics, expecting working knowledge of GA4, Google Tag Manager, and tracking implementation tools like UTM parameters and call tracking pixels. Yami's posting was less specific about tools but emphasized campaign execution experience and data-driven decision-making using metrics such as GMV.[^1]
+
+[^1]: Gross Merchandise Value (GMV) is a common metric in e-commerce and marketplace businesses, representing the total value of merchandise sold over a given period.
+
+### Soft Skills
+
+Beyond technical competencies, all three postings placed significant emphasis on soft skills. Strong organizational ability and the capacity to manage multiple deadlines simultaneously appeared in every listing. Cross-functional communication which is the ability to coordinate between teams such as marketing, operations, and product. This was particularly prominent in the Yami and Oakmont roles. The Clearly Filtered posting highlighted self-motivation and a proactive attitude as key traits, suggesting that smaller DTC brands expect coordinators to work independently and take initiative without heavy supervision.
+
+::: callout-important
+## Key Insight
+
+Across all three postings, **project coordination and performance tracking** emerged as the most universally required competencies regardless of company size, industry, or platform focus.
+:::
+
+## Personal Career Reflection {#sec-reflection}
+
+::: callout-warning
+## Personal Section
+
+This section reflects my individual career goals and current preparation.
+:::
+
+### Role of Most Interest
+
+The career role that interested me the most is the Digital Marketing Coordinator role at Oakmont Senior Living. I have some experience in GA4 and Google Business profiles, as we worked on those skills in IBM 6510, specifically for the micro-internship with Wellness Ranch.
+
+### Current Strengths and Areas for Improvement
+
+I have some experience in GA4 and Google Business profiles from my coursework in IBM 6510. However, I would need more experience with WordPress and an overall strengthening of my skills in SEO. I could also improve my resume by adding some of the keywords these recruiters have used to describe the job requirements, and I need to update the certifications I have to prove I can be considered for this opportunity.
+
+### Next Steps for Career Preparation
+
+To prepare for this career path, I can look for more opportunities to expand my experience in SEO and data management. I also plan to pursue relevant certifications that align with the tools and platforms these roles require.
+
+## References and Job Posting Links {#sec-references}
+
+### Job Postings
+
+1.  E-Commerce Coordinator — Clearly Filtered — [View Posting](https://www.linkedin.com/jobs/view/4424462746/?alternateChannel=search&refId=EPflIPjepNoYsqKcNW3Jlg%3D%3D&trackingId=vSBHNOUol265GmMDQ7S0iA%3D%3D)
+2.  Marketing Lead, Customer Engagement — Yami — [View Posting](https://www.linkedin.com/jobs/view/marketing-lead-customer-engagement-at-yami-4431754021/)
+3.  Digital Marketing Coordinator — Oakmont Senior Living — [View Posting](https://www.linkedin.com/jobs/view/digital-marketing-coordinator-at-oakmont-senior-living-4433392121/)
+
+## Appendix {#sec-appendix}
+
+::: callout-note
+## GitHub Submission Links
+
+-   **GitHub Pages (Published Report):** [Click here to view](https://your-github-username.github.io/your-repo-name/)
+-   **GitHub Repository:** [Click here to view](https://github.com/your-github-username/your-repo-name)
+
+:::
